@@ -1,4 +1,6 @@
-# Task 1
+# Task
+
+#Task 1
 The code reads data from an Excel file named 'Task_Data.xlsx', converts the 'date' column to datetime format, groups the data by week using Monday as the start of the week, calculates the average of 'price1' for each week, and saves the result to a new CSV file named 'Task_1_average_price_per_week.csv'. The code assumes that the 'price1' column contains numerical data that can be averaged.
 
 #Task 2
